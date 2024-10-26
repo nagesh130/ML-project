@@ -1,5 +1,4 @@
 import sys
-sys.path.append('C:/Users/nages/Downloads/Python + SQL/MLproject/src')
 from dataclasses import dataclass
 
 import numpy as np 

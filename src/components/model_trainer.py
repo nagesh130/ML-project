@@ -1,6 +1,5 @@
 import os
 import sys
-sys.path.append('C:/Users/nages/Downloads/Python + SQL/MLproject/src')
 from dataclasses import dataclass
 
 from catboost import CatBoostRegressor

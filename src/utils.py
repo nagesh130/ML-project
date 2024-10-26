@@ -1,7 +1,6 @@
 #Contains common functionalities
 import os
 import sys
-sys.path.append('C:/Users/nages/Downloads/Python + SQL/MLproject/src')
 import pandas as pd
 import numpy as np
 import dill

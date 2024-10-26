@@ -1,6 +1,5 @@
 import os
-import sys #custom exception
-sys.path.append('C:/Users/nages/Downloads/Python + SQL/MLproject/src')  
+import sys #custom exception 
 from src.exception import CustomException 
 from src.logger import logging
 import pandas as pd #dataframe
